@@ -1,0 +1,34 @@
+﻿@model FacebookApi.FBUserInformation
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@Html.ActionLink("Gogogo", "Nav")
+
+    <div style="display:block;">
+        <ul>
+		  <li>
+              <img src="@Model.PictureSquarePath" />
+              <br />
+                @Model.Name 
+                <span> - </span>
+                @Model.BirthDay
+
+                  <ul>
+                      @foreach (EcommerceSearch.EcommerceSearchRescultItem item in ((EcommerceSearch.EcommerceSearchRescult)ViewBag.result).EcommerceSearchRetultItems)
+                      {
+                        <li>
+                            <a href="@item.ItemUrl">
+                            <img src="@item.ItemImageUrl" />
+                                </a>
+                              <br />
+                                @item.ItemName
+                        </li>                          
+                      }
+                  </ul>
+              </li>
+        </ul>
+    </div>

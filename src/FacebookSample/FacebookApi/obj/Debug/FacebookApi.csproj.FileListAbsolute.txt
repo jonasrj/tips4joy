@@ -1,0 +1,7 @@
+D:\Projeto\samples\FacebookSample\FacebookApi\bin\Debug\FacebookApi.dll
+D:\Projeto\samples\FacebookSample\FacebookApi\bin\Debug\FacebookApi.pdb
+D:\Projeto\samples\FacebookSample\FacebookApi\obj\Debug\FacebookApi.csprojResolveAssemblyReference.cache
+D:\Projeto\samples\FacebookSample\FacebookApi\obj\Debug\FacebookApi.dll
+D:\Projeto\samples\FacebookSample\FacebookApi\obj\Debug\FacebookApi.pdb
+D:\Projeto\samples\FacebookSample\FacebookApi\bin\Debug\Newtonsoft.Json.dll
+D:\Projeto\samples\FacebookSample\FacebookApi\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,11 @@
+D:\Projeto\samples\EcommerceSearchSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Projeto\samples\EcommerceSearchSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Projeto\samples\EcommerceSearchSample\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Projeto\samples\EcommerceSearchSample\ConsoleApplication1\bin\Debug\EcommerceSearch.dll
+D:\Projeto\samples\EcommerceSearchSample\ConsoleApplication1\bin\Debug\HtmlAgilityPack.dll
+D:\Projeto\samples\EcommerceSearchSample\ConsoleApplication1\bin\Debug\EcommerceSearch.pdb
+D:\Projeto\samples\EcommerceSearchSample\ConsoleApplication1\bin\Debug\HtmlAgilityPack.pdb
+D:\Projeto\samples\EcommerceSearchSample\ConsoleApplication1\bin\Debug\HtmlAgilityPack.xml
+D:\Projeto\samples\EcommerceSearchSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Projeto\samples\EcommerceSearchSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projeto\samples\EcommerceSearchSample\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

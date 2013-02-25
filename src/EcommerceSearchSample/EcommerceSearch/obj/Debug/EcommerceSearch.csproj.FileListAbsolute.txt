@@ -1,0 +1,8 @@
+D:\Projeto\samples\EcommerceSearchSample\EcommerceSearch\bin\Debug\EcommerceSearch.dll
+D:\Projeto\samples\EcommerceSearchSample\EcommerceSearch\bin\Debug\EcommerceSearch.pdb
+D:\Projeto\samples\EcommerceSearchSample\EcommerceSearch\bin\Debug\HtmlAgilityPack.dll
+D:\Projeto\samples\EcommerceSearchSample\EcommerceSearch\bin\Debug\HtmlAgilityPack.pdb
+D:\Projeto\samples\EcommerceSearchSample\EcommerceSearch\bin\Debug\HtmlAgilityPack.xml
+D:\Projeto\samples\EcommerceSearchSample\EcommerceSearch\obj\Debug\EcommerceSearch.csprojResolveAssemblyReference.cache
+D:\Projeto\samples\EcommerceSearchSample\EcommerceSearch\obj\Debug\EcommerceSearch.dll
+D:\Projeto\samples\EcommerceSearchSample\EcommerceSearch\obj\Debug\EcommerceSearch.pdb
